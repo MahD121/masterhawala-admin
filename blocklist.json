@@ -1,6 +1,8 @@
 {
-     "blocked": [],
-     "pending": [],
-     "expired": [],
-     "updatedAt": "2026-05-17T00:00:00.000Z"
-   }
+  "blocked": [],
+  "pending": [],
+  "expired": [],
+  "blockedMachines": [],
+  "note": "blocked = license keys. blockedMachines = hardware fingerprints. Both checked on every app startup.",
+  "updatedAt": "2026-05-18T00:00:00.000Z"
+}
